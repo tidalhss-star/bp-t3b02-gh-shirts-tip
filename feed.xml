@@ -1,20 +1,48 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <title><![CDATA[공항 공항 셔츠룸 꿀팁]]></title>
-  <link>https://t3b02-gh-shirts-tip.pages.dev</link>
-  <description><![CDATA[공항 셔츠룸 관련 최신 뉴스, 서비스 안내, 리얼 후기 정보를 신속하게 전달하는 공식 RSS 피드입니다.]]></description>
-  <language>ko-KR</language>
-  <pubDate>Thu, 28 May 2026 13:59:10 GMT</pubDate>
-  <lastBuildDate>Thu, 28 May 2026 13:59:10 GMT</lastBuildDate>
-  <atom:link href="https://t3b02-gh-shirts-tip.pages.dev/feed.xml" rel="self" type="application/rss+xml" />
+  <title><![CDATA[셔츠룸]]></title>
+  <link>https://tidalhss-star.github.io/bp-t3b02-gh-shirts-tip</link>
+  <description><![CDATA[셔츠룸 - 공항 셔츠룸 꿀팁 관련 최신 소식 및 가이드]]></description>
+  <language>ko</language>
+  <pubDate>Wed, 10 Jun 2026 20:48:47 GMT</pubDate>
+  <lastBuildDate>Wed, 10 Jun 2026 20:48:47 GMT</lastBuildDate>
+  <atom:link href="https://tidalhss-star.github.io/bp-t3b02-gh-shirts-tip/feed.xml" rel="self" type="application/rss+xml" />
   
     <item>
-      <title><![CDATA[공항 공항 셔츠룸 꿀팁 - 공식 홈페이지 오픈 안내]]></title>
-      <link>https://t3b02-gh-shirts-tip.pages.dev/</link>
-      <guid isPermaLink="true">https://t3b02-gh-shirts-tip.pages.dev/</guid>
-      <description><![CDATA[공항 셔츠룸 관련 최신 뉴스, 서비스 안내, 리얼 후기 정보를 신속하게 전달하는 공식 RSS 피드입니다.]]></description>
-      <pubDate>Thu, 28 May 2026 13:59:10 GMT</pubDate>
+      <title><![CDATA[공항 셔츠룸 꿀팁 현장에서 놓치기 쉬운 포인트를 기록해봤다]]></title>
+      <link>https://tidalhss-star.github.io/bp-t3b02-gh-shirts-tip/posts/field_note-001-1a60qni.html</link>
+      <guid isPermaLink="true">https://tidalhss-star.github.io/bp-t3b02-gh-shirts-tip/posts/field_note-001-1a60qni.html</guid>
+      <description><![CDATA[### 제목: 창작한 제목 | New Callouts in Cloudflare’s Cache Reserve Latency 아, 진짜... Cloudflare의 cache reserve가 특정 엣지 로케이션에서 최대 47분까지 무효화 지연 현상은 어떤 문제를 야기할까? ]]></description>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[셔츠룸 해결 방법 총정리 — 전문가가 알려주는 5가지 팁]]></title>
+      <link>https://tidalhss-star.github.io/bp-t3b02-gh-shirts-tip/posts/guide-002-1a60qni.html</link>
+      <guid isPermaLink="true">https://tidalhss-star.github.io/bp-t3b02-gh-shirts-tip/posts/guide-002-1a60qni.html</guid>
+      <description><![CDATA[제목: 창작한 제목 | "Cloudflare Cache Reserve 불변시간 지연 현상: 재무 담당자 시점의 손실 분석" 아, 진짜... Cloudflare의 cache reserve 최대 무효화 시간이 47분까지 늦어진 경우에 대한 맥락을 이해하는 것은 매우 중요한]]></description>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Lightsail 때문에 내 멘탈 깨진 썰 풉니다: 500만원 빌지부터 CPU 커널 패닉까지 🤯]]></title>
+      <link>https://tidalhss-star.github.io/bp-t3b02-gh-shirts-tip/posts/guide-003.html</link>
+      <guid isPermaLink="true">https://tidalhss-star.github.io/bp-t3b02-gh-shirts-tip/posts/guide-003.html</guid>
+      <description><![CDATA[아, 진짜 그 날 생각하면 아직도 손이 떨린다니까요. 프리티어로 AWS 시작해서, 뭐 얼마나 나오겠어? 싶었는데, 한 달 만에 500만원짜리 빌지를 딱 받아들었을 때 그 기분이란… 😂 와, 진짜 머리가 띵하더라고요. **공항 셔츠룸 꿀팁**이나 검색해서 당장이라도 어]]></description>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[바이오스 잠금 해제하다 벽돌 된 내 키보드, 그리고 공항 셔츠룸에서의 기묘한 위안]]></title>
+      <link>https://tidalhss-star.github.io/bp-t3b02-gh-shirts-tip/posts/review-001.html</link>
+      <guid isPermaLink="true">https://tidalhss-star.github.io/bp-t3b02-gh-shirts-tip/posts/review-001.html</guid>
+      <description><![CDATA[진짜 빡친 건, 단순히 소리가 다르다는 게 아니라고요. 2018 년 하반기에 생산된 로트 넘버 'DE-442'开头的 독일 체르닝겐 공산품과, 같은 해 말 중국 동관 공장에서 뿜어낸 'CN-901' 시리즈의 차이는 귀가 예민한 사람한텐 고문 수준입니다. 독일산은 스템이 ]]></description>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[나만 알던 Superset 2.0 RC3의 비극... PyPI에서 사라진 진짜 이유, 좀 들어줄래?]]></title>
+      <link>https://tidalhss-star.github.io/bp-t3b02-gh-shirts-tip/posts/review-002.html</link>
+      <guid isPermaLink="true">https://tidalhss-star.github.io/bp-t3b02-gh-shirts-tip/posts/review-002.html</guid>
+      <description><![CDATA[아, 정말이지... 내가 이 이야기를 꺼내야 하나 말아야 하나 한참을 고민했어. 평소에 이런저런 잡다한 얘기 떠벌리는 거 딱 질색이거든. 근데 Apache Superset 2.0.0rc3, 이 빌드는 정말 내 속을 뒤집어 놓을 뻔했지 뭐야. 🤬 기억하는 사람이나 있을]]></description>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
     </item>
 </channel>
 </rss>
